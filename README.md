@@ -1,1 +1,2 @@
 # odin-recipes
+This project is based around building a website around my favourite recipes. I will be using HTML and CSS to kick off the project. I will enhance the site with more coding languages as I progress.
